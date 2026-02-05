@@ -1,1 +1,2 @@
 DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,bilibili.com
