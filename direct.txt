@@ -1,3 +1,4 @@
 DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,jn0318.xyz
+DOMAIN-SUFFIX,sciencedirect.com
